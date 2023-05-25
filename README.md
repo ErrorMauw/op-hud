@@ -1,7 +1,9 @@
 # Opto Studios https://discord.gg/rnQePyNK4x
-Op-Hud
-
 QBCore FiveM Hud
+
+Op-Hud a hud that wants to innovate in fivem with a totally different design and a peculiar but very simple system. this system has:
+Health, Hunger, Thirst, Oxygen and Bleeding.
+All this with a necedad system which means that if your needs are fine they are not shown on the screen, however if you want to see how much percentage you have you can do it with the caps key
 
 ## Download & Installation
 ### Config
@@ -16,13 +18,14 @@ Config.UpdateTime = 300
 ```
 
 ### Manually
-- Download https://github.com/ErrorMauw/op-hud/archive/refs/heads/main.zip
+- Download https://github.com/ErrorMauw/op-hud
 - Put it in the `resources` directory
 
 ### Using [Git](https://git-scm.com/downloads)
 
 cd resources
-git clone https://github.com/ErrorMauw/op-hud resources/op-hud
+git clone https://github.com/ErrorMauw/op-hud
 
 ## Preview
-https://user-images.githubusercontent.com/80290702/186480282-8c2db285-7d3e-412e-9803-5d8491862699.mp4
+
+https://github.com/ErrorMauw/op-hud/assets/110748601/bcaaa327-1991-4824-85f0-b2cd065340f9
