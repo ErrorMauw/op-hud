@@ -28,5 +28,4 @@ cd resources
 git clone https://github.com/ErrorMauw/op-hud
 
 ## Preview
-
-https://github.com/ErrorMauw/op-hud/assets/110748601/bcaaa327-1991-4824-85f0-b2cd065340f9
+https://github.com/ErrorMauw/op-hud/assets/110748601/8a0a862a-97fc-48c9-90ff-06b3c8383335
