@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+
+    transition-duration: 0.3s;
+}
+
+.container {
+    display: none;
+}
+
+ul {
+    position: absolute;
+    left: 1vh;
+    bottom: -0.6vh;
+
+    width: 25vh;
+    height: 3vh;
+}
+
+li {
+    display: inline-block;
+}
+
+.hud-vida {
+    position: relative;
+    left: -4vh;
+
+    margin-left: 0.5vh;
+    margin-right: 0.5vh;
+
+    width: 3vh;
+    height: 3vh;
+
+    border-radius: 1vh;
+    box-shadow: 0 0 5.62vh 0.025vh rgba(0, 0, 0, 0.727);
+}
+
+.hud-hambre {
+    position: relative;
+    left: -4vh;
+
+    margin-left: 0.5vh;
+    margin-right: 0.5vh;
+
+    width: 3vh;
+    height: 3vh;
+
+    border-radius: 1vh;
+}
+
+.hud-sed {
+    position: relative;
+    left: -4vh;
+
+    margin-left: 0.5vh;
+    margin-right: 0.5vh;
+
+    width: 3vh;
+    height: 3vh;
+
+    border-radius: 1vh;
+    box-shadow: 0 0 5.62vh 0.025vh rgba(0, 0, 0, 0.727);
+}
+
+.hud-oxigeno {
+    position: relative;
+    left: -4vh;
+
+    margin-right: 0.5vh;
+
+    width: 1vh;
+    height: 3vh;
+
+    border-radius: 1vh;
+    box-shadow: 0 0 5.62vh 0.025vh rgba(0, 0, 0, 0.727);
+}
+
+.hud-sangrado {
+    position: relative;
+    left: -4vh;
+
+    margin-right: 0.5vh;
+
+    width: 1vh;
+    height: 3vh;
+
+    border-radius: 1vh;
+    box-shadow: 0 0 5.62vh 0.025vh rgba(0, 0, 0, 0.727);
+}
+
+.hud-help {
+    display: none;
+
+    position: absolute;
+    top: -0.2vh;
+
+    text-align: center;
+    font-size: 0.8vh;
+
+}
+
+.hud-help-2 {
+    display: none;
+
+    position: absolute;
+    top: -4.1vh;
+    right: -1.6vh;
+
+    padding: 0.3vh;
+
+    text-align: center;
+    font-size: 0.8vh;
+
+    border-radius: 0.5vh;
+    background-color: #ffffff;
+}
+
+#icons-1 {
+    display: none;
+
+    position: absolute;
+    top: 0.750vh;
+    left: 0.750vh;
+
+    font-size: 1.5vh;
+
+    padding: 0;
+    margin: 0;
+
+    color: rgb(255, 255, 255);
+}
+
+#icons-2 {
+    display: none;
+
+    position: absolute;
+    top: 0.750vh;
+    left: 0.750vh;
+
+    font-size: 1.5vh;
+
+    padding: 0;
+    margin: 0;
+
+    color: rgb(255, 255, 255);
+}
+
+#icons-3 {
+    display: none;
+
+    position: absolute;
+    top: 0.750vh;
+    left: 0.750vh;
+
+    font-size: 1.5vh;
+
+    padding: 0;
+    margin: 0;
+
+    color: rgb(255, 255, 255);
+}
