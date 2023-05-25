@@ -13,6 +13,7 @@ All this with a necedad system which means that if your needs are fine they are 
 Config = {}
 
 Config.Minimap = false
+Config.OpenKey = 137
 Config.UpdateTime = 300
 
 ```

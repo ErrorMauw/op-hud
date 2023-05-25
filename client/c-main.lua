@@ -98,10 +98,10 @@ end)
 Citizen.CreateThread(function()
 	while true do
 		if isLoggedIn then
-			if IsControlJustPressed(0, 137) then
+			if IsControlJustPressed(0, Config.OpenKey) then
                 SecShow(true)
 			end
-			if IsControlJustReleased(0, 137) then
+			if IsControlJustReleased(0, Config.OpenKey) then
                 SecShow(false)
 			end
 		else
